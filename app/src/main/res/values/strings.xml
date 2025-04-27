@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleAlarmClock</string>
+    <string name="set_alarm_button">Set Alarm</string>
+    <string name="select_time_label">Select Alarm Time</string>
+    <string name="alarm_message">Wake up for class!</string>
+    <string name="toast_alarm_set">Alarm request sent</string>
+    <string name="toast_no_alarm_app">No alarm app available</string>
+</resources>
